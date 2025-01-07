@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```
 OPENWEATHER_API_KEY=my_openweather_api_key
 AWS_BUCKET_NAME=my_s3_bucket_name
+```
 
 4. I run my dashboard using
 ```
