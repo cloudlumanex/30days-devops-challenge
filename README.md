@@ -36,3 +36,4 @@ AWS_BUCKET_NAME=my_s3_bucket_name
 pythoon3 src/waetherdashboard.py
 
 ```
+
