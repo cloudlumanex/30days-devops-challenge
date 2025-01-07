@@ -23,6 +23,7 @@ To run this project, you'll need:
 ```
 pip install -r requirements.txt
 ```
+<img width="734" alt="Screenshot 2025-01-07 013528" src="https://github.com/user-attachments/assets/f6086c10-f568-4b98-b46d-1467bdbfd6d1" />
 
 3. Then i configured my .env with my AWS Credentials and Openweather API key
 ```
@@ -30,9 +31,15 @@ OPENWEATHER_API_KEY=my_openweather_api_key
 AWS_BUCKET_NAME=my_s3_bucket_name
 ```
 
+
 4. I run my dashboard using
 
 ```
 pythoon3 src/waetherdashboard.py
 
 ```
+![Screenshot 2025-01-07 022234](https://github.com/user-attachments/assets/55651c2c-6bf2-4cce-8509-f746c4a07bdd)
+
+
+
+
