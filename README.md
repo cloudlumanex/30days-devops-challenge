@@ -7,3 +7,11 @@ This project is a Python-based weather dashboard that fetches real-time weather 
 * Saves weather data as JSON to an S3 bucket.
 * Automatically creates an S3 bucket if it doesn't exist.
 * Logs weather information including temperature, humidity, and conditions.
+
+# Prerequisites
+To run this project, you'll need:
+
+* Python 3.7+
+* AWS Account with S3 permissions
+* OpenWeather API Key
+* .env file to store API keys and credentials
