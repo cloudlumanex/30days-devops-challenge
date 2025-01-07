@@ -15,3 +15,10 @@ To run this project, you'll need:
 * AWS Account with S3 permissions
 * OpenWeather API Key
 * .env file to store API keys and credentials
+
+# Setup
+1. I created local folder 30days-devops-challenge and inside it i created another folder weather-dashboard-demo then cd into the weather-dashboard-demo folder.
+
+2. I installed all the depencies 
+```
+pip install -r requirements.txt
